@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+tensorflow
+nltk
+transformers
+matplotlib
+seaborn
+langchain_together
